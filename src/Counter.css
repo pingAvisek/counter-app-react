@@ -10,7 +10,6 @@ main {
 
 .btns button {
   margin: 0 0.5rem;
-  /* width: 100%; */
 }
 
 h1 {
@@ -26,12 +25,8 @@ p {
   margin: 2rem 0;
 }
 
+/* Media Queries */
 @media screen and (max-width: 370px) {
-  /* main {
-    height: 100vh;
-    width: auto;
-  } */
-
   .btns button {
     display: block;
     margin: 1rem 0;

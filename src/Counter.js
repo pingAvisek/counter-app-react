@@ -18,7 +18,6 @@ const Counter = () => {
   };
 
   // Function to change the color of the count value based on the count value
-
   const changeColor = () => {
     if (count < 0) {
       return "red";

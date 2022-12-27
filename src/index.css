@@ -10,8 +10,3 @@
 :root {
   --primary-color: #fc7256;
 }
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-}
